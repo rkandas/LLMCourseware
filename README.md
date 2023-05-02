@@ -1,11 +1,11 @@
 
-# Generative AI Beginner Courseware
+# Course Info
 
 ## 1. Introduction
 This courseware is designed for beginners who want to learn about generative AI. It is a collection of tutorials and hands-on exercises that will help you learn how to use generative AI to create new content. The courseware is divided into three parts:
-- **Part 1: Introduction to Generative AI** - This part introduces you to Hugging Face's Transformers library and the basics of generative AI. You will learn how to use the library and Hugging Face's pre-trained models to generate text, Text Question answering, Visual Q&A, and image captioning.
-- **Part 2: Langchain, VectorDB, RAG and Agents** - This part introduces you to the basics of Langchain, VectorDB, RAG and Agents. You will learn how to use the langchain library for prompting, chaining, and vectorizing text. You will also learn how to use the VectorDB library to vectorize text. you will learn how to use the RAG library to answer question from documents. Finally, you will learn how to use the Agents.
-- **Part 3: Further exploration** - This sections is a list of resources that you can use to further explore generative AI.
+- **Introduction to Generative AI** - This part introduces you to Hugging Face's Transformers library and the basics of generative AI. You will learn how to use the library and Hugging Face's pre-trained models to generate text, Text Question answering, Visual Q&A, and image captioning.
+- **Langchain, VectorDB, RAG and Agents** - This part introduces you to the basics of Langchain, VectorDB, RAG and Agents. You will learn how to use the langchain library for prompting, chaining, and vectorizing text. You will also learn how to use the VectorDB library to vectorize text. you will learn how to use the RAG library to answer question from documents. Finally, you will learn how to use the Agents.
+- **Further exploration** - This sections is a list of resources that you can use to further explore generative AI.
 ---
 ## 2. Prerequisites
 - You can use the "Open in Colab" button in this notebook to open them in Google Colab.
@@ -34,7 +34,8 @@ If you are new to colab, you can watch the following video to learn how to use i
 
 ---
 
-## 4. Introduction to Hugging Face's Transformers library
+# Course Content
+## 1. Introduction to Hugging Face's Transformers library
 
 Hugging Face's Transformers library is a python library that provides an easy-to-use API to access a large number of pre-trained models for Natural Language Processing (NLP). It also provides an easy-to-use API to train custom models. This notebook introduces you to the basics of the library and shows you how to use it to generate text, Text Question answering, Visual Q&A, and image captioning.
 
@@ -45,7 +46,7 @@ Hugging Face's Transformers library is a python library that provides an easy-to
 Use the "Open in Colab" button above to open the notebook in Google Colab. 
 
 ---
-## 5. Langchain, VectorDB, RAG and Agents
+## 2. Langchain, VectorDB, RAG and Agents
 Langchain is a python library that provides an easy-to-use API to chain and vectorize text. Retrieval Augmented Generation (RAG) is a method to answer question from documents using VectorDB and LLM. Agents is a concept that uses LLM, Tools and langchain to complete a given goal. This notebook introduces you to the basics of langchain, VectorDB, RAG and Agents.
 
 <a target="_blank" href="https://colab.research.google.com/github/rkandas/LLMCourseware/blob/main/Part-2-Langchain_RAG_Intro.ipynb">
@@ -56,7 +57,7 @@ Use the "Open in Colab" button above to open the notebook in Google Colab.
 
 ---
 
-## 6. Further exploration
+## 3. Further exploration
 This section is a list of resources that you can use to further explore generative AI.
 #### Recommended Courses
 - **Neural Networks: Zero to Hero** - This is a highly recommended course by Andrej Karpathy, Director of AI @ Tesla and Founding member of Open AI https://karpathy.ai/zero-to-hero.html. In this course Karpathy deep dives into the fundamentals of neural networks and LLMs and shows how to build a GPT model from scratch.
