@@ -1,6 +1,6 @@
 
 # Generative AI Beginner Courseware
----
+
 ## 1. Introduction
 This courseware is designed for beginners who want to learn about generative AI. It is a collection of tutorials and hands-on exercises that will help you learn how to use generative AI to create new content. The courseware is divided into three parts:
 - **Part 1: Introduction to Generative AI** - This part introduces you to Hugging Face's Transformers library and the basics of generative AI. You will learn how to use the library and Hugging Face's pre-trained models to generate text, Text Question answering, Visual Q&A, and image captioning.
