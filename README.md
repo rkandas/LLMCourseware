@@ -1,3 +1,4 @@
+<base target="_blank">
 # Generative AI Beginner Courseware
 ---
 ## 1. Introduction
@@ -37,7 +38,7 @@ If you are new to colab, you can watch the following video to learn how to use i
 
 Hugging Face's Transformers library is a python library that provides an easy-to-use API to access a large number of pre-trained models for Natural Language Processing (NLP). It also provides an easy-to-use API to train custom models. This notebook introduces you to the basics of the library and shows you how to use it to generate text, Text Question answering, Visual Q&A, and image captioning.
 
-<a target="_blank" href="https://colab.research.google.com/github/rkandas/LLMCourseware/blob/main/Part-1-Huggingface_AI_Sample_Scripts.ipynb">
+<a href="https://colab.research.google.com/github/rkandas/LLMCourseware/blob/main/Part-1-Huggingface_AI_Sample_Scripts.ipynb" target="_blank" >
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
