@@ -60,23 +60,30 @@ This section is a list of resources that you can use to further explore generati
 #### Recommended Courses
 - **Neural Networks: Zero to Hero** - This is a highly recommended course by Andrej Karpathy, Director of AI @ Tesla and Founding member of Open AI https://karpathy.ai/zero-to-hero.html. In this course Karpathy deep dives into the fundamentals of neural networks and LLMs and shows how to build a GPT model from scratch.
 
-[![Karpathy](https://img.youtube.com/vi/kCc8FmEb1nY/0.jpg)](https://www.youtube.com/watch?v=kCc8FmEb1nY "Karpathy")
+  [![Karpathy](https://img.youtube.com/vi/kCc8FmEb1nY/0.jpg)](https://www.youtube.com/watch?v=kCc8FmEb1nY "Karpathy")
 
 
 
 - **Langchain Cookbook by Data Independent**
 This is a series of videos by Data Independent that shows detailed usecases of Langchain.
-    - *Fundamentals of Langchain*  <a target="_blank" href="https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb">
+    - *Fundamentals of Langchain*  
+    
+    <a target="_blank" href="https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a> 
+    
     Use the "Open in Colab" button above to open the notebook in Google Colab. 
 
-    - *Usecases for Langchain* <a target="_blank" href="https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb">
+    - *Usecases for Langchain* 
+    
+    <a target="_blank" href="https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
-    Use the "Open in Colab" button above to open the notebook in Google Colab. 
     
+    Use the "Open in Colab" button above to open the notebook in Google Colab. 
+
     - *Video Course*
+
     [![Langchain Cookbook](https://img.youtube.com/vi/2xxziIWmaSA/0.jpg)](https://www.youtube.com/watch?v=2xxziIWmaSA "Langchain Cookbook")
 ---
 #### Recommended Readings
