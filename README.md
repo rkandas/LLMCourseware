@@ -1,4 +1,4 @@
-<base target="_blank">
+
 # Generative AI Beginner Courseware
 ---
 ## 1. Introduction
