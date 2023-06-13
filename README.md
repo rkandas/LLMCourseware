@@ -64,7 +64,7 @@ This section is a list of resources that you can use to further explore generati
 
   [![Karpathy](https://img.youtube.com/vi/kCc8FmEb1nY/0.jpg)](https://www.youtube.com/watch?v=kCc8FmEb1nY "Karpathy")
 
-
+- **Generative AI Learning Path** from Google. https://www.cloudskillsboost.google/paths/118
 
 - **Langchain Cookbook by Data Independent**
 This is a series of videos by Data Independent that shows detailed usecases of Langchain.
